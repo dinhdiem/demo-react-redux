@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Bùi Tiến Đình",
+      "address": "Nam Định",
+      "id": 1
+    },
+    {
+      "name": "Bùi Tiến Đình",
+      "address": "Nam Định",
+      "id": 2
+    },
+    {
+      "name": "Nguyễn Thế Anh",
+      "address": "Hà Nội",
+      "id": 3
+    },
+    {
+      "name": "Mai Quang Vinh",
+      "address": "Quang Vinh",
+      "id": 4
+    },
+    {
+      "name": "Bùi Văn Test",
+      "address": "Yên Bái",
+      "id": 5
+    }
+  ]
+}
